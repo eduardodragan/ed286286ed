@@ -1,159 +1,196 @@
-provincia_reserva,filtrado,categoria
-UCAM CAG a Grado de Infantil,CAG a Grado de Infantil,cag
-CAG a Grado de Infantil (desde Infantil o EGB Pre-escolar),CAG a Grado de Infantil (desde Infantil o EGB Pre-escolar),cag
-UCAM CAG a Grado de Primaria,CAG a Grado de Primaria,cag
-CAG a Grado de Primaria (desde Primaria o EGB),CAG a Grado de Primaria (desde Primaria o EGB),cag
-Grado de Infantil (desde Grado en Primaria -no para Diplomados en Primaria-),Grado de Infantil (desde Grado en Primaria -no para Diplomados en Primaria-),cruzado
-CEIE Grado de Infantil (desde Grado en Primaria),Grado de Infantil (desde Grado en Primaria),cruzado
-UNIDAM Grado de Infantil desde Diplomatura/Grado de Primaria,Grado de Infantil desde Diplomatura/Grado de Primaria,cruzado
-Nebrija Grado de Infantil desde Grado de Primaria,Grado de Infantil desde Grado de Primaria,cruzado
-Grado de Primaria (desde Grado en Infantil -no para Diplomados en Infantil,Grado de Primaria (desde Grado en Infantil -no para Diplomados en Infantil,cruzado
-Grado de Primaria (desde Grado en Infantil -no para Diplomados en Infantil,Grado de Primaria (desde Grado en Infantil -no para Diplomados en Infantil,cruzado
-Grado de Primaria (desde Grado en Infantil -no para Diplomados en Infantil-),Grado de Primaria (desde Grado en Infantil -no para Diplomados en Infantil-),cruzado
-Grado de Primaria (desde Grado en Infantil-no para Diplomados en Infantil-),Grado de Primaria (desde Grado en Infantil-no para Diplomados en Infantil-),cruzado
-Grado de Primaria (desde Infantil),Grado de Primaria (desde Infantil),cruzado
-UNIDAM Grado de Primaria desde Diplomatura/Grado de Infantil,Grado de Primaria desde Diplomatura/Grado de Infantil,cruzado
-Grado de Primaria desde Grado de Infantil,Grado de Primaria desde Grado de Infantil,cruzado
-Nebrija Grado de Primaria desde Grado de Infantil,Grado de Primaria desde Grado de Infantil,cruzado
-UNAM Grado de Primaria (desde Diplomatura en Infantil),UNAM Grado de Primaria (desde Diplomatura en Infantil),cruzado
-UNIDAM Curso de Acceso para mayores de 25 años,Curso de Acceso para mayores de 25 años,curso mayores
-UNIDAM Grado de Infantil desde FP,Grado de Infantil desde FP,infantil desde TSI
-UNIDAM Grado de Infantil para Técnico Sup. en Infantil,Grado de Infantil para Técnico Sup. en Infantil,infantil desde TSI
-Nebrija Grado de Ed. Infantil para Técnico Sup. en Infantil,Grado Infantil para Técnico Sup. en Infantil,infantil desde TSI
-Grado de Ed. Infantil para Técnico Sup. en Infantil (2 años),Grado Infantil para Técnico Sup. en Infantil (2 años),infantil desde TSI
-CEIE Grado de Logopedia para titulados,Grado de Logopedia para titulados,logopedia para titulados
-UNIDAM Grado de Infantil Primer Curso,Grado de Infantil Primer Curso,magisterio sin titulacion
-UNIDAM Grado de Infantil desde infantil (no finalizado),Grado de Infantil desde infantil (no finalizado),magisterio sin finalizar
-Máster en Enseñanza Bilingüe (Oficial),Máster en Enseñanza Bilingüe (Oficial),master educacion
-Master Oficial Dirección y Gestión para la Calidad de Centros Educativos,Master Oficial Dirección y Gestión para la Calidad de Centros Educativos,master educacion
-Máster Universitario en Atención a la Diversidad Educativa y Necesidades Educativas Especiales,Máster Universitario en Atención a la Diversidad Educativa y Necesidades Educativas Especiales,master educacion
-Máster Universitario en Atención Temprana,Máster Universitario en Atención Temprana,master educacion
-Máster Universitario en Competencias Docentes,Máster Universitario en Competencias Docentes,master educacion
-Máster Universitario en Desarrollo del Lenguaje y Dificultades de Comunicación,Máster Universitario en Desarrollo del Lenguaje y Dificultades de Comunicación,master educacion
-Máster Universitario en Dirección y Transformación Digital de Centros Educativos,Máster Universitario en Dirección y Transformación Digital de Centros Educativos,master educacion
-Máster Universitario en Educación Bilingüe,Máster Universitario en Educación Bilingüe,master educacion
-Máster Universitario en Enseñanza de Español para Extranjeros,Máster Universitario en Enseñanza de Español para Extranjeros,master educacion
-Máster Universitario en Enseñanza del Español como Lengua Extranjera,Máster Universitario en Enseñanza del Español como Lengua Extranjera,master educacion
-Máster Universitario en Estudios Avanzados de Altas Capacidades y Desarrollo del Talento,Máster Universitario en Estudios Avanzados de Altas Capacidades y Desarrollo del Talento,master educacion
-Máster Universitario en Formación de Profesores de Español como Lengua Extranjera,Máster Universitario en Formación de Profesores de Español como Lengua Extranjera,master educacion
-Máster Universitario en Gobernanza Educativa,Máster Universitario en Gobernanza Educativa,master educacion
-Master Universitario en Investigación y Mejora del Proceso de Enseñanza-Aprendizaje de las Matemáticas,Master Universitario en Investigación y Mejora del Proceso de Enseñanza-Aprendizaje de las Matemáticas,master educacion
-Máster Universitario en Necesidades Educativas Especiales y Educación Inclusiva,Máster Universitario en Necesidades Educativas Especiales y Educación Inclusiva,master educacion
-Máster Universitario en Orientación e Intervención Psicopedagógica,Máster Universitario en Orientación e Intervención Psicopedagógica,master educacion
-Máster Universitario en Problemas de Conducta en Centros Educativos,Máster Universitario en Problemas de Conducta en Centros Educativos,master educacion
-Master Universitario en Procesos Educativos de Enseñanza y Aprendizaje,Master Universitario en Procesos Educativos de Enseñanza y Aprendizaje,master educacion
-Máster Universitario en Psicopedagogía,Máster Universitario en Psicopedagogía,master educacion
-Máster Universitario en Tecnología Digital Aplicada a la Enseñanza,Máster Universitario en Tecnología Digital Aplicada a la Enseñanza,master educacion
-Máster Universitario en Tecnología Digital Aplicada a la Práctica Docente,Máster Universitario en Tecnología Digital Aplicada a la Práctica Docente,master educacion
-Máster Universitario en Psicología General Sanitaria,Máster Universitario en Psicología General Sanitaria,master psicologia
-Máster Oficial de Secundaria,Máster Oficial de Secundaria,master secundaria
-"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI","Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI",master secundaria
-"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNAM)","Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNAM)",master secundaria
-"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNIDAM)","Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNIDAM)",master secundaria
-Mención de Audición y Lenguaje,Mención de Audición y Lenguaje,mencion
-Mención de Pedagogía Terapéutica,Mención de Pedagogía Terapéutica,mencion
-Mención UCJC en Pedagogía Terapéutica (desde Grado UCJC en Primaria),Mención en Pedagogía Terapéutica (desde Grado en Primaria),mencion
-Nebrija Mención en Audición Lenguaje desde Grado Nebrija,Mención en Audición Lenguaje desde Grado Nebrija,mencion
-Mención UCJC en Audición y Lenguaje (desde Grado UCJC en Primaria),Mención en Audición y Lenguaje (desde Grado en Primaria),mencion
-Nebrija Mención en Audición y Lenguaje desde Grado Nebrija,Mención en Audición y Lenguaje desde Grado Nebrija,mencion
-Mención UCJC en Audición y Lenguaje (desde Grado UCJC en Primaria),Mención en Audición y Lenguaje (desde Grado en Primaria),mencion
-Mención UCJC en Audición y Lenguaje (desde Grado UCJC en Primaria),Mención en Audición y Lenguaje (desde Grado en Primaria),mencion
-Mención UCJC en Audición y Lenguaje (desde Grado NO UCJC en Infantil),Mención en Audición y Lenguaje (desde Grado NO en Infantil),mencion
-Mención UCJC en Audición y Lenguaje (desde Grado NO UCJC en Primaria),Mención en Audición y Lenguaje (desde Grado NO en Primaria),mencion
-UCAM Mención en Audición y Lenguaje desde Grado de Primaria NO UCAM,Mención en Audición y Lenguaje desde Grado de Primaria NO UCAM,mencion
-UCAM Mención en Audición y Lenguaje desde Grado de Primaria UCAM,Mención en Audición y Lenguaje desde Grado de Primaria UCAM,mencion
-UNIDAM Mención en Audición y Lenguaje desde Grado UNIDAM en Primaria,Mención en Audición y Lenguaje desde Grado en Primaria,mencion
-Nebrija Mención en Audición y Lenguaje desde Grado Nebrija,Mención en Audición y Lenguaje desde Grado Nebrija,mencion
-Nebrija Mención en Audición y Lenguaje desde Grado no Nebrija en Primaria,Mención en Audición y Lenguaje desde Grado no en Primaria,mencion
-UNIDAM Mención en Audición y Lenguaje desde Grado NO UNIDAM en Primaria,Mención en Audición y Lenguaje desde Grado NO en Primaria,mencion
-UNIDAM Mención en Audición y Lenguaje desde Grado NO UNIDAM en Primaria (no finalizado),Mención en Audición y Lenguaje desde Grado NO en Primaria (no finalizado),mencion
-Mención UCJC en Educación Física (desde Grado UCJC en Primaria),Mención en Educación Física (desde Grado en Primaria),mencion
-Mención UCJC en Educación Física (desde Grado NO UCJC en Primaria),Mención en Educación Física (desde Grado NO en Primaria),mencion
-UCAM Mención en Educación Física desde Grado de Primaria NO UCAM,Mención en Educación Física desde Grado de Primaria NO UCAM,mencion
-UCAM Mención en Educación Física desde Grado de Primaria UCAM,Mención en Educación Física desde Grado de Primaria UCAM,mencion
-UNIDAM Mención en Educación Física desde Grado UNIDAM en Primaria,Mención en Educación Física desde Grado en Primaria,mencion
-Nebrija Mención en Educación Física desde Grado Nebrija,Mención en Educación Física desde Grado Nebrija,mencion
-Nebrija Mención en Educación Física desde Grado Nebrija_CABE,Mención en Educación Física desde Grado Nebrija_CABE,mencion
-UNIDAM Mención en Educación Física desde Grado NO UNIDAM en Infantil,Mención en Educación Física desde Grado NO en Infantil,mencion
-Nebrija Mención en Educación Física desde Grado no Nebrija en Primaria,Mención en Educación Física desde Grado no en Primaria,mencion
-UNIDAM Mención en Educación Física desde Grado NO UNIDAM en Primaria,Mención en Educación Física desde Grado NO en Primaria,mencion
-UNIDAM Mención en Educación Física desde Grado NO UNIDAM en Primaria (no finalizado),Mención en Educación Física desde Grado NO en Primaria (no finalizado),mencion
-Mención UCJC en Lengua Extranjera (Alemán) desde Grado NO UCJC en Primaria,Mención en Lengua Extranjera (Alemán) desde Grado NO en Primaria,mencion
-Mención UCJC en Lengua Extranjera (Francés) Clase en francés. (desde Grado NO UCJC en Primaria),Mención en Lengua Extranjera (Francés) Clase en francés. (desde Grado NO en Primaria),mencion
-UCAM Mención en Lengua Extranjera (Francés) desde Grado de Primaria NO UCAM,Mención en Lengua Extranjera (Francés) desde Grado de Primaria NO UCAM,mencion
-Mención UCJC en Lengua Extranjera (Francés) desde Grado UCJC en Primaria,Mención en Lengua Extranjera (Francés) desde Grado en Primaria,mencion
-Mención UCJC en Lengua Extranjera (Francés) desde Grado NO UCJC en Primaria,Mención en Lengua Extranjera (Francés) desde Grado NO en Primaria,mencion
-Mención UCJC en Lengua Extranjera (Francés) desde Grado NO UCJC en Primaria. Clases en Francés,Mención en Lengua Extranjera (Francés) desde Grado NO en Primaria. Clases en Francés,mencion
-Mención UCJC en Lengua Extranjera (Inglés) Clase en Inglés. (desde Grado UCJC en Primaria),Mención en Lengua Extranjera (Inglés) Clase en Inglés. (desde Grado en Primaria),mencion
-Mención UCJC en Lengua Extranjera (Inglés) Clase en Inglés. (desde Grado NO UCJC en Infantil),Mención en Lengua Extranjera (Inglés) Clase en Inglés. (desde Grado NO en Infantil),mencion
-Mención UCJC en Lengua Extranjera (Inglés) Clase en Inglés. (desde Grado NO UCJC en Primaria),Mención en Lengua Extranjera (Inglés) Clase en Inglés. (desde Grado NO en Primaria),mencion
-UCAM Mención en Lengua Extranjera (Inglés) desde Grado de Primaria NO UCAM,Mención en Lengua Extranjera (Inglés) desde Grado de Primaria NO UCAM,mencion
-UCAM Mención en Lengua Extranjera (Inglés) desde Grado de Primaria UCAM,Mención en Lengua Extranjera (Inglés) desde Grado de Primaria UCAM,mencion
-Nebrija Mención en Lengua Extranjera (Inglés) desde Grado Nebrija en Primaria,Mención en Lengua Extranjera (Inglés) desde Grado en Primaria,mencion
-UNIDAM Mención en Lengua Extranjera (Inglés) desde Grado UNIDAM en Primaria,Mención en Lengua Extranjera (Inglés) desde Grado en Primaria,mencion
-Nebrija Mención en Lengua Extranjera (Inglés) desde Grado Nebrija,Mención en Lengua Extranjera (Inglés) desde Grado Nebrija,mencion
-Nebrija Mención en Lengua Extranjera (Inglés) desde Grado no Nebrija en Primaria,Mención en Lengua Extranjera (Inglés) desde Grado no en Primaria,mencion
-UNIDAM Mención en Lengua Extranjera (Inglés) desde Grado NO UNIDAM en Primaria,Mención en Lengua Extranjera (Inglés) desde Grado NO en Primaria,mencion
-UNIDAM Mención en Lengua Extranjera (Inglés) desde Grado NO UNIDAM en Primaria (no finalizado),Mención en Lengua Extranjera (Inglés) desde Grado NO en Primaria (no finalizado),mencion
-Nebrija Mención en Lengua Extranjera (Inglés) desde Grado NO Nebrija,Mención en Lengua Extranjera (Inglés) desde Grado NO Nebrija,mencion
-Mención UCJC en Música (desde Grado UCJC en Primaria),Mención en Música (desde Grado en Primaria),mencion
-Mención UCJC en Música (desde Grado UCJC en Primaria) SE REQUIERE PRUEBA DE ACCESO,Mención en Música (desde Grado en Primaria) SE REQUIERE PRUEBA DE ACCESO,mencion
-Mención UCJC en Música (desde Grado NO UCJC en Primaria) SE REQUIERE PRUEBA DE ACCESO,Mención en Música (desde Grado NO en Primaria) SE REQUIERE PRUEBA DE ACCESO,mencion
-UCAM Mención en Música desde Grado de Primaria NO UCAM,Mención en Música desde Grado de Primaria NO UCAM,mencion
-UCAM Mención en Música desde Grado de Primaria UCAM,Mención en Música desde Grado de Primaria UCAM,mencion
-UNIDAM Mención en Música desde Grado UNIDAM en Primaria,Mención en Música desde Grado en Primaria,mencion
-UNIDAM Mención en Música desde Grado UNIDAM en Primaria (no finalizado),Mención en Música desde Grado en Primaria (no finalizado),mencion
-UNIDAM Mención en Música desde Grado NO UNIDAM en Primaria,Mención en Música desde Grado NO en Primaria,mencion
-UNIDAM Mención en Música desde Grado NO UNIDAM en Primaria (no finalizado),Mención en Música desde Grado NO en Primaria (no finalizado),mencion
-Mención UCJC en Pedagogía Terapéutica (desde Grado UCJC en Primaria),Mención en Pedagogía Terapéutica (desde Grado en Primaria),mencion
-Mención UCJC en Pedagogía Terapéutica (desde Grado NO UCJC en Infantil),Mención en Pedagogía Terapéutica (desde Grado NO en Infantil),mencion
-Mención UCJC en Pedagogía Terapéutica (desde Grado NO UCJC en Primaria),Mención en Pedagogía Terapéutica (desde Grado NO en Primaria),mencion
-UCAM Mención en Pedagogía Terapéutica desde Grado de Primaria NO UCAM,Mención en Pedagogía Terapéutica desde Grado de Primaria NO UCAM,mencion
-UCAM Mención en Pedagogía Terapéutica desde Grado de Primaria NO UCAM,Mención en Pedagogía Terapéutica desde Grado de Primaria NO UCAM,mencion
-(RESIDUALES) UCAM Mención en Pedagogía Terapéutica desde Grado de Primaria UCAM,Mención en Pedagogía Terapéutica desde Grado de Primaria UCAM,mencion
-UCAM Mención en Pedagogía Terapéutica desde Grado de Primaria UCAM,Mención en Pedagogía Terapéutica desde Grado de Primaria UCAM,mencion
-UNIDAM Mención en Pedagogía Terapéutica desde Grado UNIDAM en Primaria,Mención en Pedagogía Terapéutica desde Grado en Primaria,mencion
-UNIDAM Mención en Pedagogía Terapéutica desde Grado UNIDAM en Primaria (no finalizado),Mención en Pedagogía Terapéutica desde Grado en Primaria (no finalizado),mencion
-Nebrija Mención en Pedagogía Terapéutica desde Grado Nebrija,Mención en Pedagogía Terapéutica desde Grado Nebrija,mencion
-Nebrija Mención en Pedagogía Terapéutica desde Grado Nebrija_AUMENTOECTS-Incluir DIDÁCTICA MATES,Mención en Pedagogía Terapéutica desde Grado Nebrija_AUMENTOECTS-Incluir DIDÁCTICA MATES,mencion
-UNIDAM Mención en Pedagogía Terapéutica desde Grado NO UNIDAM en Infantil,Mención en Pedagogía Terapéutica desde Grado NO en Infantil,mencion
-Nebrija Mención en Pedagogía Terapéutica desde Grado no Nebrija en Primaria,Mención en Pedagogía Terapéutica desde Grado no en Primaria,mencion
-UNIDAM Mención en Pedagogía Terapéutica desde Grado NO UNIDAM en Primaria,Mención en Pedagogía Terapéutica desde Grado NO en Primaria,mencion
-UNIDAM Mención en Pedagogía Terapéutica desde Grado NO UNIDAM en Primaria (no finalizado),Mención en Pedagogía Terapéutica desde Grado NO en Primaria (no finalizado),mencion
-Nebrija Mención en Pedagogía Terapéutica desde Grado no Nebrija en Primaria,Mención en Pedagogía Terapéutica desde Grado no en Primaria,mencion
-UNIDAM Mención en Pedagogía Terapéutica desde Grado NO UNIDAM en Primaria,Mención en Pedagogía Terapéutica desde Grado NO en Primaria,mencion
-Mención de Ed. Física,Mención Física,mencion
-UNIDAM Grado de Infantil desde título no homologado,Grado de Infantil desde título no homologado,no maestro
-UNIDAM Grado de Infantil para No Maestros,Grado de Infantil para No Maestros,no maestro
-UNIDAM Grado de Primaria desde FP,Grado de Primaria desde FP,no maestro
-UNIDAM Grado de Primaria desde primaria (no finalizado),Grado de Primaria desde primaria (no finalizado),magisterio sin finalizar
-Grado de Primaria para Graduados en Música,Grado de Primaria para Graduados en Música,no maestro
-Nebrija Grado de Primaria para No Maestros,Grado de Primaria para No Maestros,no maestro
-UNIDAM Grado de Primaria para No Maestros,Grado de Primaria para No Maestros,no maestro
-Grado de Ed. Infantil Para Licenciados,Grado Infantil Para Licenciados,no maestro
-Grado de Ed. Primaria para Diplomados No Maestros,Grado Primaria para Diplomados No Maestros,no maestro
-Grado de Ed. Primaria para Graduados no maestros (2 años),Grado Primaria para Graduados no maestros (2 años),no maestro
-Grado de Ed. Primaria Para Licenciados (2 años),Grado Primaria Para Licenciados (2 años),no maestro
-Grado de Pedagogía para titulados,Grado de Pedagogía para titulados,pedagogia para titulados
-UNIDAM Grado de Psicología desde Psicología (no finalizado),Grado de Psicología desde Psicología (no finalizado),psicologia sin finalizar
-CEIE Grado de Psicología para titulados,Grado de Psicología para titulados,psicologia para titulados
-UNIDAM Grado de Psicología para titulados,Grado de Psicología para titulados,psicologia para titulados
-UNIDAM Grado de Primaria Primer Curso,Grado de Primaria Primer Curso,psicologia sin titulacion
-CEIE Grado de Psicología Primer Curso,Grado de Psicología Primer Curso,psicologia sin titulacion
-UNIDAM Grado de Psicología Primer Curso,Grado de Psicología Primer Curso,psicologia sin titulacion
-CEIE Grado de Psicología para titulados (2do año 2do semestre),Grado de Psicología para titulados (2do año 2do semestre),residual
-CEIE Grado de Psicología para titulados (2º año 2º semestre ),Grado de Psicología para titulados (2º año 2º semestre ),residual
-CEIE Grado de Psicología para titulados (2º año 2º semestre + 3º año 1er semestre),Grado de Psicología para titulados (2º año 2º semestre + 3º año 1er semestre),residual
-CEIE Grado de Psicología para titulados (2º año 2º semestre),Grado de Psicología para titulados (2º año 2º semestre),residual
-CEIE Grado de Psicología para titulados (2º año 2ºsemestre),Grado de Psicología para titulados (2º año 2ºsemestre),residual
-Residual UCAM Mención en Audición y Lenguaje desde Grado de Primaria UCAM,Residual Mención en Audición y Lenguaje desde Grado de Primaria UCAM,residual
-Residual UCAM Mención en Lengua Extranjera (Inglés) desde Grado de Primaria NO UCAM,Residual Mención en Lengua Extranjera (Inglés) desde Grado de Primaria NO UCAM,residual
-RESIDUAL_UNIDAM Grado de Infantil desde Grado de Primaria,RESIDUAL_Grado de Infantil desde Grado de Primaria,residual
-RESIDUAL_Nebrija Grado de Primaria desde Diplomatura de Infantil_TFG,RESIDUAL_Grado de Primaria desde Diplomatura de Infantil_TFG,residual
-RESIDUAL_UNIDAM Grado de Primaria desde Grado de Infantil,RESIDUAL_Grado de Primaria desde Grado de Infantil,residual
-RESIDUAL_Grado de Ed. Primaria para Licenciados,RESIDUAL_Grado Primaria para Licenciados,residual
-RESIDUAL_Mención UCJC en Audición y Lenguaje (desde Grado NO UCJC en Primaria),RESIDUAL_Mención en Audición y Lenguaje (desde Grado NO en Primaria),residual
-RESIDUAL_UNIDAM Segundo curso del Grado de Primaria para No Maestros,RESIDUAL_Segundo curso del Grado de Primaria para No Maestros,residual
-RESIDUALES UCAM Mención en Lengua Extranjera (Inglés) desde Grado de Primaria UCAM,RESIDUALES Mención en Lengua Extranjera (Inglés) desde Grado de Primaria UCAM,residual
-RESIDUALES_ UCAM Mención en Lengua Extranjera (Francés) desde Grado de Primaria UCAM,RESIDUALES_ Mención en Lengua Extranjera (Francés) desde Grado de Primaria UCAM,residual
-UNIDAM segundo año Grado de Primaria desde Diplomatura/Grado de Infantil,segundo año Grado de Primaria desde Diplomatura/Grado de Infantil,residual
+provincia_reserva,concepto,filtrado,categoria
+UCAM CAG a Grado de Infantil,admision,CAG a Grado de Infantil,cag
+CAG a Grado de Infantil (desde Infantil o EGB Pre-escolar),admision,CAG a Grado de Infantil (desde Infantil o EGB Pre-escolar),cag
+UCAM CAG a Grado de Primaria,admision,CAG a Grado de Primaria,cag
+CAG a Grado de Primaria (desde Primaria o EGB),admision,CAG a Grado de Primaria (desde Primaria o EGB),cag
+Grado de Infantil (desde Grado en Primaria -no para Diplomados en Primaria-),admision,Grado de Infantil (desde Grado en Primaria -no para Diplomados en Primaria-),cruzado
+CEIE Grado de Infantil (desde Grado en Primaria),admision,Grado de Infantil (desde Grado en Primaria),cruzado
+UNIDAM Grado de Infantil desde Diplomatura/Grado de Primaria,admision,Grado de Infantil desde Diplomatura/Grado de Primaria,cruzado
+Nebrija Grado de Infantil desde Grado de Primaria,admision,Grado de Infantil desde Grado de Primaria,cruzado
+Grado de Primaria (desde Grado en Infantil -no para Diplomados en Infantil,admision,Grado de Primaria (desde Grado en Infantil -no para Diplomados en Infantil,cruzado
+Grado de Primaria (desde Grado en Infantil -no para Diplomados en Infantil,admision,Grado de Primaria (desde Grado en Infantil -no para Diplomados en Infantil,cruzado
+Grado de Primaria (desde Grado en Infantil -no para Diplomados en Infantil-),admision,Grado de Primaria (desde Grado en Infantil -no para Diplomados en Infantil-),cruzado
+Grado de Primaria (desde Grado en Infantil-no para Diplomados en Infantil-),admision,Grado de Primaria (desde Grado en Infantil-no para Diplomados en Infantil-),cruzado
+Grado de Primaria (desde Infantil),admision,Grado de Primaria (desde Infantil),cruzado
+UNIDAM Grado de Primaria desde Diplomatura/Grado de Infantil,admision,Grado de Primaria desde Diplomatura/Grado de Infantil,cruzado
+Grado de Primaria desde Grado de Infantil,admision,Grado de Primaria desde Grado de Infantil,cruzado
+Nebrija Grado de Primaria desde Grado de Infantil,admision,Grado de Primaria desde Grado de Infantil,cruzado
+UNAM Grado de Primaria (desde Diplomatura en Infantil),admision,UNAM Grado de Primaria (desde Diplomatura en Infantil),cruzado
+UNIDAM Curso de Acceso para mayores de 25 años,admision,Curso de Acceso para mayores de 25 años,curso mayores
+UNIDAM Grado de Infantil desde FP,admision,Grado de Infantil desde FP,infantil desde TSI
+UNIDAM Grado de Infantil para Técnico Sup. en Infantil,admision,Grado de Infantil para Técnico Sup. en Infantil,infantil desde TSI
+Nebrija Grado de Ed. Infantil para Técnico Sup. en Infantil,admision,Grado Infantil para Técnico Sup. en Infantil,infantil desde TSI
+Grado de Ed. Infantil para Técnico Sup. en Infantil (2 años),admision,Grado Infantil para Técnico Sup. en Infantil (2 años),infantil desde TSI
+CEIE Grado de Logopedia para titulados,admision,Grado de Logopedia para titulados,logopedia para titulados
+UNIDAM Grado de Infantil Primer Curso,admision,Grado de Infantil Primer Curso,magisterio sin titulacion
+UNIDAM Grado de Infantil desde infantil (no finalizado),admision,Grado de Infantil desde infantil (no finalizado),magisterio sin finalizar
+Máster en Enseñanza Bilingüe (Oficial),admision,Máster en Enseñanza Bilingüe (Oficial),master educacion
+Master Oficial Dirección y Gestión para la Calidad de Centros Educativos,admision,Master Oficial Dirección y Gestión para la Calidad de Centros Educativos,master educacion
+Máster Universitario en Atención a la Diversidad Educativa y Necesidades Educativas Especiales,admision,Máster Universitario en Atención a la Diversidad Educativa y Necesidades Educativas Especiales,master educacion
+Máster Universitario en Atención Temprana,admision,Máster Universitario en Atención Temprana,master educacion
+Máster Universitario en Competencias Docentes,admision,Máster Universitario en Competencias Docentes,master educacion
+Máster Universitario en Desarrollo del Lenguaje y Dificultades de Comunicación,admision,Máster Universitario en Desarrollo del Lenguaje y Dificultades de Comunicación,master educacion
+Máster Universitario en Dirección y Transformación Digital de Centros Educativos,admision,Máster Universitario en Dirección y Transformación Digital de Centros Educativos,master educacion
+Máster Universitario en Educación Bilingüe,admision,Máster Universitario en Educación Bilingüe,master educacion
+Máster Universitario en Enseñanza de Español para Extranjeros,admision,Máster Universitario en Enseñanza de Español para Extranjeros,master educacion
+Máster Universitario en Enseñanza del Español como Lengua Extranjera,admision,Máster Universitario en Enseñanza del Español como Lengua Extranjera,master educacion
+Máster Universitario en Estudios Avanzados de Altas Capacidades y Desarrollo del Talento,admision,Máster Universitario en Estudios Avanzados de Altas Capacidades y Desarrollo del Talento,master educacion
+Máster Universitario en Formación de Profesores de Español como Lengua Extranjera,admision,Máster Universitario en Formación de Profesores de Español como Lengua Extranjera,master educacion
+Máster Universitario en Gobernanza Educativa,admision,Máster Universitario en Gobernanza Educativa,master educacion
+Master Universitario en Investigación y Mejora del Proceso de Enseñanza-Aprendizaje de las Matemáticas,admision,Master Universitario en Investigación y Mejora del Proceso de Enseñanza-Aprendizaje de las Matemáticas,master educacion
+Máster Universitario en Necesidades Educativas Especiales y Educación Inclusiva,admision,Máster Universitario en Necesidades Educativas Especiales y Educación Inclusiva,master educacion
+Máster Universitario en Orientación e Intervención Psicopedagógica,admision,Máster Universitario en Orientación e Intervención Psicopedagógica,master educacion
+Máster Universitario en Problemas de Conducta en Centros Educativos,admision,Máster Universitario en Problemas de Conducta en Centros Educativos,master educacion
+Master Universitario en Procesos Educativos de Enseñanza y Aprendizaje,admision,Master Universitario en Procesos Educativos de Enseñanza y Aprendizaje,master educacion
+Máster Universitario en Psicopedagogía,admision,Máster Universitario en Psicopedagogía,master educacion
+Máster Universitario en Tecnología Digital Aplicada a la Enseñanza,admision,Máster Universitario en Tecnología Digital Aplicada a la Enseñanza,master educacion
+Máster Universitario en Tecnología Digital Aplicada a la Práctica Docente,admision,Máster Universitario en Tecnología Digital Aplicada a la Práctica Docente,master educacion
+Máster Universitario en Psicología General Sanitaria,admision,Máster Universitario en Psicología General Sanitaria,master psicologia
+Máster Oficial de Secundaria,admision,Máster Oficial de Secundaria,master secundaria
+"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI",admision,"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI",master secundaria
+"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNAM)",admision,"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNAM)",master secundaria
+"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNIDAM)",admision,"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNIDAM)",master secundaria
+Mención de Audición y Lenguaje,admision,Mención de Audición y Lenguaje,mencion
+Mención de Pedagogía Terapéutica,admision,Mención de Pedagogía Terapéutica,mencion
+Mención UCJC en Pedagogía Terapéutica (desde Grado UCJC en Primaria),admision,Mención en Pedagogía Terapéutica (desde Grado en Primaria),mencion
+Nebrija Mención en Audición Lenguaje desde Grado Nebrija,admision,Mención en Audición Lenguaje desde Grado Nebrija,mencion
+Mención UCJC en Audición y Lenguaje (desde Grado UCJC en Primaria),admision,Mención en Audición y Lenguaje (desde Grado en Primaria),mencion
+Nebrija Mención en Audición y Lenguaje desde Grado Nebrija,admision,Mención en Audición y Lenguaje desde Grado Nebrija,mencion
+Mención UCJC en Audición y Lenguaje (desde Grado UCJC en Primaria),admision,Mención en Audición y Lenguaje (desde Grado en Primaria),mencion
+Mención UCJC en Audición y Lenguaje (desde Grado UCJC en Primaria),admision,Mención en Audición y Lenguaje (desde Grado en Primaria),mencion
+Mención UCJC en Audición y Lenguaje (desde Grado NO UCJC en Infantil),admision,Mención en Audición y Lenguaje (desde Grado NO en Infantil),mencion
+Mención UCJC en Audición y Lenguaje (desde Grado NO UCJC en Primaria),admision,Mención en Audición y Lenguaje (desde Grado NO en Primaria),mencion
+UCAM Mención en Audición y Lenguaje desde Grado de Primaria NO UCAM,admision,Mención en Audición y Lenguaje desde Grado de Primaria NO UCAM,mencion
+UCAM Mención en Audición y Lenguaje desde Grado de Primaria UCAM,admision,Mención en Audición y Lenguaje desde Grado de Primaria UCAM,mencion
+UNIDAM Mención en Audición y Lenguaje desde Grado UNIDAM en Primaria,admision,Mención en Audición y Lenguaje desde Grado en Primaria,mencion
+Nebrija Mención en Audición y Lenguaje desde Grado Nebrija,admision,Mención en Audición y Lenguaje desde Grado Nebrija,mencion
+Nebrija Mención en Audición y Lenguaje desde Grado no Nebrija en Primaria,admision,Mención en Audición y Lenguaje desde Grado no en Primaria,mencion
+UNIDAM Mención en Audición y Lenguaje desde Grado NO UNIDAM en Primaria,admision,Mención en Audición y Lenguaje desde Grado NO en Primaria,mencion
+UNIDAM Mención en Audición y Lenguaje desde Grado NO UNIDAM en Primaria (no finalizado),admision,Mención en Audición y Lenguaje desde Grado NO en Primaria (no finalizado),mencion
+Mención UCJC en Educación Física (desde Grado UCJC en Primaria),admision,Mención en Educación Física (desde Grado en Primaria),mencion
+Mención UCJC en Educación Física (desde Grado NO UCJC en Primaria),admision,Mención en Educación Física (desde Grado NO en Primaria),mencion
+UCAM Mención en Educación Física desde Grado de Primaria NO UCAM,admision,Mención en Educación Física desde Grado de Primaria NO UCAM,mencion
+UCAM Mención en Educación Física desde Grado de Primaria UCAM,admision,Mención en Educación Física desde Grado de Primaria UCAM,mencion
+UNIDAM Mención en Educación Física desde Grado UNIDAM en Primaria,admision,Mención en Educación Física desde Grado en Primaria,mencion
+Nebrija Mención en Educación Física desde Grado Nebrija,admision,Mención en Educación Física desde Grado Nebrija,mencion
+Nebrija Mención en Educación Física desde Grado Nebrija_CABE,admision,Mención en Educación Física desde Grado Nebrija_CABE,mencion
+UNIDAM Mención en Educación Física desde Grado NO UNIDAM en Infantil,admision,Mención en Educación Física desde Grado NO en Infantil,mencion
+Nebrija Mención en Educación Física desde Grado no Nebrija en Primaria,admision,Mención en Educación Física desde Grado no en Primaria,mencion
+UNIDAM Mención en Educación Física desde Grado NO UNIDAM en Primaria,admision,Mención en Educación Física desde Grado NO en Primaria,mencion
+UNIDAM Mención en Educación Física desde Grado NO UNIDAM en Primaria (no finalizado),admision,Mención en Educación Física desde Grado NO en Primaria (no finalizado),mencion
+Mención UCJC en Lengua Extranjera (Alemán) desde Grado NO UCJC en Primaria,admision,Mención en Lengua Extranjera (Alemán) desde Grado NO en Primaria,mencion
+Mención UCJC en Lengua Extranjera (Francés) Clase en francés. (desde Grado NO UCJC en Primaria),admision,Mención en Lengua Extranjera (Francés) Clase en francés. (desde Grado NO en Primaria),mencion
+UCAM Mención en Lengua Extranjera (Francés) desde Grado de Primaria NO UCAM,admision,Mención en Lengua Extranjera (Francés) desde Grado de Primaria NO UCAM,mencion
+Mención UCJC en Lengua Extranjera (Francés) desde Grado UCJC en Primaria,admision,Mención en Lengua Extranjera (Francés) desde Grado en Primaria,mencion
+Mención UCJC en Lengua Extranjera (Francés) desde Grado NO UCJC en Primaria,admision,Mención en Lengua Extranjera (Francés) desde Grado NO en Primaria,mencion
+Mención UCJC en Lengua Extranjera (Francés) desde Grado NO UCJC en Primaria. Clases en Francés,admision,Mención en Lengua Extranjera (Francés) desde Grado NO en Primaria. Clases en Francés,mencion
+Mención UCJC en Lengua Extranjera (Inglés) Clase en Inglés. (desde Grado UCJC en Primaria),admision,Mención en Lengua Extranjera (Inglés) Clase en Inglés. (desde Grado en Primaria),mencion
+Mención UCJC en Lengua Extranjera (Inglés) Clase en Inglés. (desde Grado NO UCJC en Infantil),admision,Mención en Lengua Extranjera (Inglés) Clase en Inglés. (desde Grado NO en Infantil),mencion
+Mención UCJC en Lengua Extranjera (Inglés) Clase en Inglés. (desde Grado NO UCJC en Primaria),admision,Mención en Lengua Extranjera (Inglés) Clase en Inglés. (desde Grado NO en Primaria),mencion
+UCAM Mención en Lengua Extranjera (Inglés) desde Grado de Primaria NO UCAM,admision,Mención en Lengua Extranjera (Inglés) desde Grado de Primaria NO UCAM,mencion
+UCAM Mención en Lengua Extranjera (Inglés) desde Grado de Primaria UCAM,admision,Mención en Lengua Extranjera (Inglés) desde Grado de Primaria UCAM,mencion
+Nebrija Mención en Lengua Extranjera (Inglés) desde Grado Nebrija en Primaria,admision,Mención en Lengua Extranjera (Inglés) desde Grado en Primaria,mencion
+UNIDAM Mención en Lengua Extranjera (Inglés) desde Grado UNIDAM en Primaria,admision,Mención en Lengua Extranjera (Inglés) desde Grado en Primaria,mencion
+Nebrija Mención en Lengua Extranjera (Inglés) desde Grado Nebrija,admision,Mención en Lengua Extranjera (Inglés) desde Grado Nebrija,mencion
+Nebrija Mención en Lengua Extranjera (Inglés) desde Grado no Nebrija en Primaria,admision,Mención en Lengua Extranjera (Inglés) desde Grado no en Primaria,mencion
+UNIDAM Mención en Lengua Extranjera (Inglés) desde Grado NO UNIDAM en Primaria,admision,Mención en Lengua Extranjera (Inglés) desde Grado NO en Primaria,mencion
+UNIDAM Mención en Lengua Extranjera (Inglés) desde Grado NO UNIDAM en Primaria (no finalizado),admision,Mención en Lengua Extranjera (Inglés) desde Grado NO en Primaria (no finalizado),mencion
+Nebrija Mención en Lengua Extranjera (Inglés) desde Grado NO Nebrija,admision,Mención en Lengua Extranjera (Inglés) desde Grado NO Nebrija,mencion
+Mención UCJC en Música (desde Grado UCJC en Primaria),admision,Mención en Música (desde Grado en Primaria),mencion
+Mención UCJC en Música (desde Grado UCJC en Primaria) SE REQUIERE PRUEBA DE ACCESO,admision,Mención en Música (desde Grado en Primaria) SE REQUIERE PRUEBA DE ACCESO,mencion
+Mención UCJC en Música (desde Grado NO UCJC en Primaria) SE REQUIERE PRUEBA DE ACCESO,admision,Mención en Música (desde Grado NO en Primaria) SE REQUIERE PRUEBA DE ACCESO,mencion
+UCAM Mención en Música desde Grado de Primaria NO UCAM,admision,Mención en Música desde Grado de Primaria NO UCAM,mencion
+UCAM Mención en Música desde Grado de Primaria UCAM,admision,Mención en Música desde Grado de Primaria UCAM,mencion
+UNIDAM Mención en Música desde Grado UNIDAM en Primaria,admision,Mención en Música desde Grado en Primaria,mencion
+UNIDAM Mención en Música desde Grado UNIDAM en Primaria (no finalizado),admision,Mención en Música desde Grado en Primaria (no finalizado),mencion
+UNIDAM Mención en Música desde Grado NO UNIDAM en Primaria,admision,Mención en Música desde Grado NO en Primaria,mencion
+UNIDAM Mención en Música desde Grado NO UNIDAM en Primaria (no finalizado),admision,Mención en Música desde Grado NO en Primaria (no finalizado),mencion
+Mención UCJC en Pedagogía Terapéutica (desde Grado UCJC en Primaria),admision,Mención en Pedagogía Terapéutica (desde Grado en Primaria),mencion
+Mención UCJC en Pedagogía Terapéutica (desde Grado NO UCJC en Infantil),admision,Mención en Pedagogía Terapéutica (desde Grado NO en Infantil),mencion
+Mención UCJC en Pedagogía Terapéutica (desde Grado NO UCJC en Primaria),admision,Mención en Pedagogía Terapéutica (desde Grado NO en Primaria),mencion
+UCAM Mención en Pedagogía Terapéutica desde Grado de Primaria NO UCAM,admision,Mención en Pedagogía Terapéutica desde Grado de Primaria NO UCAM,mencion
+UCAM Mención en Pedagogía Terapéutica desde Grado de Primaria NO UCAM,admision,Mención en Pedagogía Terapéutica desde Grado de Primaria NO UCAM,mencion
+(RESIDUALES) UCAM Mención en Pedagogía Terapéutica desde Grado de Primaria UCAM,admision,Mención en Pedagogía Terapéutica desde Grado de Primaria UCAM,mencion
+UCAM Mención en Pedagogía Terapéutica desde Grado de Primaria UCAM,admision,Mención en Pedagogía Terapéutica desde Grado de Primaria UCAM,mencion
+UNIDAM Mención en Pedagogía Terapéutica desde Grado UNIDAM en Primaria,admision,Mención en Pedagogía Terapéutica desde Grado en Primaria,mencion
+UNIDAM Mención en Pedagogía Terapéutica desde Grado UNIDAM en Primaria (no finalizado),admision,Mención en Pedagogía Terapéutica desde Grado en Primaria (no finalizado),mencion
+Nebrija Mención en Pedagogía Terapéutica desde Grado Nebrija,admision,Mención en Pedagogía Terapéutica desde Grado Nebrija,mencion
+Nebrija Mención en Pedagogía Terapéutica desde Grado Nebrija_AUMENTOECTS-Incluir DIDÁCTICA MATES,admision,Mención en Pedagogía Terapéutica desde Grado Nebrija_AUMENTOECTS-Incluir DIDÁCTICA MATES,mencion
+UNIDAM Mención en Pedagogía Terapéutica desde Grado NO UNIDAM en Infantil,admision,Mención en Pedagogía Terapéutica desde Grado NO en Infantil,mencion
+Nebrija Mención en Pedagogía Terapéutica desde Grado no Nebrija en Primaria,admision,Mención en Pedagogía Terapéutica desde Grado no en Primaria,mencion
+UNIDAM Mención en Pedagogía Terapéutica desde Grado NO UNIDAM en Primaria,admision,Mención en Pedagogía Terapéutica desde Grado NO en Primaria,mencion
+UNIDAM Mención en Pedagogía Terapéutica desde Grado NO UNIDAM en Primaria (no finalizado),admision,Mención en Pedagogía Terapéutica desde Grado NO en Primaria (no finalizado),mencion
+Nebrija Mención en Pedagogía Terapéutica desde Grado no Nebrija en Primaria,admision,Mención en Pedagogía Terapéutica desde Grado no en Primaria,mencion
+UNIDAM Mención en Pedagogía Terapéutica desde Grado NO UNIDAM en Primaria,admision,Mención en Pedagogía Terapéutica desde Grado NO en Primaria,mencion
+Mención de Ed. Física,admision,Mención Física,mencion
+UNIDAM Grado de Infantil desde título no homologado,admision,Grado de Infantil desde título no homologado,no maestro
+UNIDAM Grado de Infantil para No Maestros,admision,Grado de Infantil para No Maestros,no maestro
+UNIDAM Grado de Primaria desde FP,admision,Grado de Primaria desde FP,no maestro
+UNIDAM Grado de Primaria desde primaria (no finalizado),admision,Grado de Primaria desde primaria (no finalizado),magisterio sin finalizar
+Grado de Primaria para Graduados en Música,admision,Grado de Primaria para Graduados en Música,no maestro
+Nebrija Grado de Primaria para No Maestros,admision,Grado de Primaria para No Maestros,no maestro
+UNIDAM Grado de Primaria para No Maestros,admision,Grado de Primaria para No Maestros,no maestro
+Grado de Ed. Infantil Para Licenciados,admision,Grado Infantil Para Licenciados,no maestro
+Grado de Ed. Primaria para Diplomados No Maestros,admision,Grado Primaria para Diplomados No Maestros,no maestro
+Grado de Ed. Primaria para Graduados no maestros (2 años),admision,Grado Primaria para Graduados no maestros (2 años),no maestro
+Grado de Ed. Primaria Para Licenciados (2 años),admision,Grado Primaria Para Licenciados (2 años),no maestro
+Grado de Pedagogía para titulados,admision,Grado de Pedagogía para titulados,pedagogia para titulados
+UNIDAM Grado de Psicología desde Psicología (no finalizado),admision,Grado de Psicología desde Psicología (no finalizado),psicologia sin finalizar
+CEIE Grado de Psicología para titulados,admision,Grado de Psicología para titulados,psicologia para titulados
+UNIDAM Grado de Psicología para titulados,admision,Grado de Psicología para titulados,psicologia para titulados
+UNIDAM Grado de Primaria Primer Curso,admision,Grado de Primaria Primer Curso,psicologia sin titulacion
+CEIE Grado de Psicología Primer Curso,admision,Grado de Psicología Primer Curso,psicologia sin titulacion
+UNIDAM Grado de Psicología Primer Curso,admision,Grado de Psicología Primer Curso,psicologia sin titulacion
+CEIE Grado de Psicología para titulados (2do año 2do semestre),admision,Grado de Psicología para titulados (2do año 2do semestre),residual
+CEIE Grado de Psicología para titulados (2º año 2º semestre ),admision,Grado de Psicología para titulados (2º año 2º semestre ),residual
+CEIE Grado de Psicología para titulados (2º año 2º semestre + 3º año 1er semestre),admision,Grado de Psicología para titulados (2º año 2º semestre + 3º año 1er semestre),residual
+CEIE Grado de Psicología para titulados (2º año 2º semestre),admision,Grado de Psicología para titulados (2º año 2º semestre),residual
+CEIE Grado de Psicología para titulados (2º año 2ºsemestre),admision,Grado de Psicología para titulados (2º año 2ºsemestre),residual
+Residual UCAM Mención en Audición y Lenguaje desde Grado de Primaria UCAM,admision,Residual Mención en Audición y Lenguaje desde Grado de Primaria UCAM,residual
+Residual UCAM Mención en Lengua Extranjera (Inglés) desde Grado de Primaria NO UCAM,admision,Residual Mención en Lengua Extranjera (Inglés) desde Grado de Primaria NO UCAM,residual
+RESIDUAL_UNIDAM Grado de Infantil desde Grado de Primaria,admision,RESIDUAL_Grado de Infantil desde Grado de Primaria,residual
+RESIDUAL_Nebrija Grado de Primaria desde Diplomatura de Infantil_TFG,admision,RESIDUAL_Grado de Primaria desde Diplomatura de Infantil_TFG,residual
+RESIDUAL_UNIDAM Grado de Primaria desde Grado de Infantil,admision,RESIDUAL_Grado de Primaria desde Grado de Infantil,residual
+RESIDUAL_Grado de Ed. Primaria para Licenciados,admision,RESIDUAL_Grado Primaria para Licenciados,residual
+RESIDUAL_Mención UCJC en Audición y Lenguaje (desde Grado NO UCJC en Primaria),admision,RESIDUAL_Mención en Audición y Lenguaje (desde Grado NO en Primaria),residual
+RESIDUAL_UNIDAM Segundo curso del Grado de Primaria para No Maestros,admision,RESIDUAL_Segundo curso del Grado de Primaria para No Maestros,residual
+RESIDUALES UCAM Mención en Lengua Extranjera (Inglés) desde Grado de Primaria UCAM,admision,RESIDUALES Mención en Lengua Extranjera (Inglés) desde Grado de Primaria UCAM,residual
+RESIDUALES_ UCAM Mención en Lengua Extranjera (Francés) desde Grado de Primaria UCAM,admision,RESIDUALES_ Mención en Lengua Extranjera (Francés) desde Grado de Primaria UCAM,residual
+UNIDAM segundo año Grado de Primaria desde Diplomatura/Grado de Infantil,admision,segundo año Grado de Primaria desde Diplomatura/Grado de Infantil,residual
+Máster de Prevención de Riesgos Laborales,mastersec,,master prl
+Máster en Enseñanza Bilingüe (Oficial),mastersec,,master edu
+Máster Oficial de Secundaria,mastersec,,secundaria
+Master Oficial Dirección y Gestión para la Calidad de Centros Educativos,mastersec,,master edu
+Máster Universitario en Atención a la Diversidad Educativa y Necesidades Educativas Especiales,mastersec,,master edu
+Máster Universitario en Atención Temprana,mastersec,,master edu
+Máster Universitario en Competencias Docentes,mastersec,,master edu
+Máster Universitario en Desarrollo del Lenguaje y Dificultades de Comunicación,mastersec,,master edu
+Máster Universitario en Desarrollo del Lenguaje y Dificultades de Comunicación (lenguaje-NEBRIJA),mastersec,,master edu
+Máster Universitario en Dirección y Transformación Digital de Centros Educativos,mastersec,,master edu
+Máster Universitario en Educación Bilingüe,mastersec,,master edu
+Máster Universitario en Enseñanza de Español para Extranjeros,mastersec,,master edu
+Máster Universitario en Enseñanza del Español como Lengua Extranjera,mastersec,,master edu
+Máster Universitario en Estudios Avanzados de Altas Capacidades y Desarrollo del Talento,mastersec,,master edu
+Máster Universitario en Formación de Profesores de Español como Lengua Extranjera,mastersec,,master edu
+Máster Universitario en Gobernanza Educativa,mastersec,,master edu
+Master Universitario en Investigación y Mejora del Proceso de Enseñanza-Aprendizaje de las Matemáticas,mastersec,,master edu
+Máster Universitario en Necesidades Educativas Especiales y Educación Inclusiva,mastersec,,master edu
+Máster Universitario en Orientación e Intervención Psicopedagógica,mastersec,,master edu
+Máster Universitario en Orientación e Intervención Psicopedagógica (CEIE - UCJC),mastersec,,master edu
+Máster Universitario en Orientación e Intervención Psicopedagógica (CEIE),mastersec,,master edu
+Máster Universitario en Problemas de Conducta en Centros Educativos,mastersec,,master edu
+Master Universitario en Procesos Educativos de Enseñanza y Aprendizaje,mastersec,,master edu
+"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI",mastersec,,secundaria
+"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNAM)",mastersec,,secundaria
+"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNIDAM)",mastersec,,secundaria
+Máster Universitario en Psicología Forense,mastersec,,master psicologia
+Máster Universitario en Psicología Forense (CEIE - UCJC),mastersec,,master psicologia
+Máster Universitario en Psicología General Sanitaria,mastersec,,sanitaria
+Máster Universitario en Psicopedagogía,mastersec,,master edu
+Máster Universitario en Tecnología Digital Aplicada a la Enseñanza,mastersec,,master edu
+Máster Universitario en Tecnología Digital Aplicada a la Práctica Docente,mastersec,,master edu
+Máster Universitario en Terapias Psicológicas de Tercera Generación (CEIE - UCJC),mastersec,,master edu
+,completar,,completar
+,curso homol,,curso homol
+,reserva plaza,,reserva plaza
+,temario,,temario
