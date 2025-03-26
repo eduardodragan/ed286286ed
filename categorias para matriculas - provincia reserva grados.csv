@@ -45,7 +45,7 @@ Master Universitario en Procesos Educativos de Enseñanza y Aprendizaje,admision
 Máster Universitario en Psicopedagogía,admision,Máster Universitario en Psicopedagogía,master educacion
 Máster Universitario en Tecnología Digital Aplicada a la Enseñanza,admision,Máster Universitario en Tecnología Digital Aplicada a la Enseñanza,master educacion
 Máster Universitario en Tecnología Digital Aplicada a la Práctica Docente,admision,Máster Universitario en Tecnología Digital Aplicada a la Práctica Docente,master educacion
-Máster Universitario en Psicología General Sanitaria,admision,Máster Universitario en Psicología General Sanitaria,master psicologia
+Máster Universitario en Psicología General Sanitaria,admision,Máster Universitario en Psicología General Sanitaria,master sanidad
 Máster Oficial de Secundaria,admision,Máster Oficial de Secundaria,master secundaria
 "Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI",admision,"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI",master secundaria
 "Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNAM)",admision,"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNAM)",master secundaria
@@ -158,39 +158,101 @@ RESIDUALES UCAM Mención en Lengua Extranjera (Inglés) desde Grado de Primaria 
 RESIDUALES_ UCAM Mención en Lengua Extranjera (Francés) desde Grado de Primaria UCAM,admision,RESIDUALES_ Mención en Lengua Extranjera (Francés) desde Grado de Primaria UCAM,residual
 UNIDAM segundo año Grado de Primaria desde Diplomatura/Grado de Infantil,admision,segundo año Grado de Primaria desde Diplomatura/Grado de Infantil,residual
 Máster de Prevención de Riesgos Laborales,mastersec,,master prl
-Máster en Enseñanza Bilingüe (Oficial),mastersec,,master edu
+Máster en Enseñanza Bilingüe (Oficial),mastersec,,master educacion
 Máster Oficial de Secundaria,mastersec,,secundaria
-Master Oficial Dirección y Gestión para la Calidad de Centros Educativos,mastersec,,master edu
-Máster Universitario en Atención a la Diversidad Educativa y Necesidades Educativas Especiales,mastersec,,master edu
-Máster Universitario en Atención Temprana,mastersec,,master edu
-Máster Universitario en Competencias Docentes,mastersec,,master edu
-Máster Universitario en Desarrollo del Lenguaje y Dificultades de Comunicación,mastersec,,master edu
-Máster Universitario en Desarrollo del Lenguaje y Dificultades de Comunicación (lenguaje-NEBRIJA),mastersec,,master edu
-Máster Universitario en Dirección y Transformación Digital de Centros Educativos,mastersec,,master edu
-Máster Universitario en Educación Bilingüe,mastersec,,master edu
-Máster Universitario en Enseñanza de Español para Extranjeros,mastersec,,master edu
-Máster Universitario en Enseñanza del Español como Lengua Extranjera,mastersec,,master edu
-Máster Universitario en Estudios Avanzados de Altas Capacidades y Desarrollo del Talento,mastersec,,master edu
-Máster Universitario en Formación de Profesores de Español como Lengua Extranjera,mastersec,,master edu
-Máster Universitario en Gobernanza Educativa,mastersec,,master edu
-Master Universitario en Investigación y Mejora del Proceso de Enseñanza-Aprendizaje de las Matemáticas,mastersec,,master edu
-Máster Universitario en Necesidades Educativas Especiales y Educación Inclusiva,mastersec,,master edu
-Máster Universitario en Orientación e Intervención Psicopedagógica,mastersec,,master edu
-Máster Universitario en Orientación e Intervención Psicopedagógica (CEIE - UCJC),mastersec,,master edu
-Máster Universitario en Orientación e Intervención Psicopedagógica (CEIE),mastersec,,master edu
-Máster Universitario en Problemas de Conducta en Centros Educativos,mastersec,,master edu
-Master Universitario en Procesos Educativos de Enseñanza y Aprendizaje,mastersec,,master edu
-"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI",mastersec,,secundaria
-"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNAM)",mastersec,,secundaria
-"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNIDAM)",mastersec,,secundaria
+Master Oficial Dirección y Gestión para la Calidad de Centros Educativos,mastersec,,master educacion
+Máster Universitario en Atención a la Diversidad Educativa y Necesidades Educativas Especiales,mastersec,,master educacion
+Máster Universitario en Atención Temprana,mastersec,,master educacion
+Máster Universitario en Competencias Docentes,mastersec,,master educacion
+Máster Universitario en Desarrollo del Lenguaje y Dificultades de Comunicación,mastersec,,master educacion
+Máster Universitario en Desarrollo del Lenguaje y Dificultades de Comunicación (lenguaje-NEBRIJA),mastersec,,master educacion
+Máster Universitario en Dirección y Transformación Digital de Centros Educativos,mastersec,,master educacion
+Máster Universitario en Educación Bilingüe,mastersec,,master educacion
+Máster Universitario en Enseñanza de Español para Extranjeros,mastersec,,master educacion
+Máster Universitario en Enseñanza del Español como Lengua Extranjera,mastersec,,master educacion
+Máster Universitario en Estudios Avanzados de Altas Capacidades y Desarrollo del Talento,mastersec,,master educacion
+Máster Universitario en Formación de Profesores de Español como Lengua Extranjera,mastersec,,master educacion
+Máster Universitario en Gobernanza Educativa,mastersec,,master educacion
+Master Universitario en Investigación y Mejora del Proceso de Enseñanza-Aprendizaje de las Matemáticas,mastersec,,master educacion
+Máster Universitario en Necesidades Educativas Especiales y Educación Inclusiva,mastersec,,master educacion
+Máster Universitario en Orientación e Intervención Psicopedagógica,mastersec,,master educacion
+Máster Universitario en Orientación e Intervención Psicopedagógica (CEIE - UCJC),mastersec,,master educacion
+Máster Universitario en Orientación e Intervención Psicopedagógica (CEIE),mastersec,,master educacion
+Máster Universitario en Problemas de Conducta en Centros Educativos,mastersec,,master educacion
+Master Universitario en Procesos Educativos de Enseñanza y Aprendizaje,mastersec,,master educacion
+"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI",mastersec,,master secundaria
+"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNAM)",mastersec,,master secundaria
+"Máster Universitario en Profesor de Educación Secundaria Obligatoria y Bachillerato, FP y EOI (UNIDAM)",mastersec,,master secundaria
 Máster Universitario en Psicología Forense,mastersec,,master psicologia
 Máster Universitario en Psicología Forense (CEIE - UCJC),mastersec,,master psicologia
-Máster Universitario en Psicología General Sanitaria,mastersec,,sanitaria
-Máster Universitario en Psicopedagogía,mastersec,,master edu
-Máster Universitario en Tecnología Digital Aplicada a la Enseñanza,mastersec,,master edu
-Máster Universitario en Tecnología Digital Aplicada a la Práctica Docente,mastersec,,master edu
-Máster Universitario en Terapias Psicológicas de Tercera Generación (CEIE - UCJC),mastersec,,master edu
+Máster Universitario en Psicología General Sanitaria,mastersec,,master sanidad
+Máster Universitario en Psicopedagogía,mastersec,,master educacion
+Máster Universitario en Tecnología Digital Aplicada a la Enseñanza,mastersec,,master educacion
+Máster Universitario en Tecnología Digital Aplicada a la Práctica Docente,mastersec,,master educacion
+Máster Universitario en Terapias Psicológicas de Tercera Generación (CEIE - UCJC),mastersec,,master educacion
 ,completar,,completar
 ,curso homol,,curso homol
 ,reserva plaza,,reserva plaza
 ,temario,,temario
+unidam segundo curso del grado de infantil desde fp,admision,segundo curso del grado de infantil desde fp,residual
+unidam segundo curso del grado de infantil para técnico sup. en infantil,admision,segundo curso del grado de infantil para técnico sup. en infantil,residual
+unidam segundo curso del grado de infantil primer curso,admision,segundo curso del grado de infantil primer curso,residual
+unidam cuarto curso del grado de infantil desde infantil (no finalizado),admision,cuarto curso del grado de infantil desde infantil (no finalizado),residual
+unidam cuarto curso del grado de primaria desde primaria (no finalizado),admision,cuarto curso del grado de primaria desde primaria (no finalizado),residual
+unidam cuarto curso del grado de primaria para no maestros,admision,cuarto curso del grado de primaria para no maestros,residual
+unidam cuarto curso del grado de psicología,admision,cuarto curso del grado de psicología,residual
+unidam cuarto curso del grado infantil,admision,cuarto curso del grado infantil,residual
+unidam cuarto curso del grado infantil desde fp,admision,cuarto curso del grado infantil desde fp,residual
+unidam cuarto curso del grado infantil desde pau (prueba de acceso a la universidad),admision,cuarto curso del grado infantil desde pau (prueba de acceso a la universidad),residual
+unidam cuarto curso del grado infantil desde técnico de educación infantil,admision,cuarto curso del grado infantil desde técnico de educación infantil,residual
+unidam cuarto curso del grado primaria,admision,cuarto curso del grado primaria,residual
+unidam cuarto curso del grado primaria desde fp,admision,cuarto curso del grado primaria desde fp,residual
+unidam cuarto curso del grado primaria desde pau (prueba de acceso a la universidad),admision,cuarto curso del grado primaria desde pau (prueba de acceso a la universidad),residual
+unidam cuarto curso grado de psicología para titulados,admision,cuarto curso grado de psicología para titulados,residual
+grado de ed. infantil para graduados no maestros,admision,grado de ed. infantil para graduados no maestros,no maestro
+ceie grado de historia para titulados,admision,grado de historia para titulados,historia para titulados
+nebrija grado de infantil desde diplomatura de primaria,admision,grado de infantil desde diplomatura de primaria,cruzado
+grado de infantil desde fp superior de infantil,admision,grado de infantil desde fp superior de infantil,infantil desde TSI
+grado de infantil desde grado de primaria,admision,grado de infantil desde grado de primaria,cruzado
+nebrija grado de primaria desde diplomatura de infantil,admision,grado de primaria desde diplomatura de infantil,cruzado
+grado de primaria para titulados universitarios no maestros,admision,grado de primaria para titulados universitarios no maestros,no maestro
+grado en logopedia online,admision,grado en logopedia online,logopedia sin titulacion
+mención,admision,mención,mencion
+mención de inglés,admision,mención de inglés,mencion
+mención de música,admision,mención de música,mencion
+unidam mención en educación física desde grado no unidam en infantil (no finalizado),admision,mención en educación física desde grado no en infantil (no finalizado),mencion
+unidam mención en lengua extranjera (inglés) desde grado unidam en primaria (no finalizado),admision,mención en lengua extranjera (inglés) desde grado en primaria (no finalizado),mencion
+unidam quinto curso del grado infantil,admision,quinto curso del grado infantil,residual
+unidam quinto curso del grado primaria,admision,quinto curso del grado primaria,residual
+residual_grado de infantil (desde grado en primaria -no para diplomados en primaria),admision,residual_grado de infantil (desde grado en primaria -no para diplomados en primaria),residual
+residual_unidam mención en lengua extranjera (inglés) desde grado unidam,admision,residual_mención en lengua extranjera (inglés) desde grado unidam,residual
+unidam segundo curso del grado de infantil desde infantil (no finalizado),admision,segundo curso del grado de infantil desde infantil (no finalizado),residual
+unidam segundo curso del grado de infantil para no maestros,admision,segundo curso del grado de infantil para no maestros,residual
+unidam segundo curso del grado de primaria desde fp,admision,segundo curso del grado de primaria desde fp,residual
+unidam segundo curso del grado de primaria desde primaria (no finalizado),admision,segundo curso del grado de primaria desde primaria (no finalizado),residual
+unidam segundo curso del grado de primaria desde título homologado,admision,segundo curso del grado de primaria desde título homologado,residual
+unidam segundo curso del grado de primaria desde título no homologado,admision,segundo curso del grado de primaria desde título no homologado,residual
+unidam segundo curso del grado de primaria para no maestros,admision,segundo curso del grado de primaria para no maestros,residual
+unidam segundo curso del grado de primaria primer curso,admision,segundo curso del grado de primaria primer curso,residual
+unidam segundo curso del grado de psicología,admision,segundo curso del grado de psicología,residual
+unidam segundo curso del grado de psicología desde fp,admision,segundo curso del grado de psicología desde fp,residual
+unidam segundo curso del grado de psicología desde psicología (no finalizado),admision,segundo curso del grado de psicología desde psicología (no finalizado),residual
+unidam segundo curso del grado infantil desde fp,admision,segundo curso del grado infantil desde fp,residual
+unidam segundo curso del grado infantil desde técnico de educación infantil,admision,segundo curso del grado infantil desde técnico de educación infantil,residual
+unidam segundo curso del grado primaria desde técnico de educación infantil,admision,segundo curso del grado primaria desde técnico de educación infantil,residual
+unidam segundo curso grado de psicología para titulados,admision,segundo curso grado de psicología para titulados,residual
+unidam sexto curso del grado primaria,admision,sexto curso del grado primaria,residual
+unidam tercer curso del grado de infantil desde infantil (no finalizado),admision,tercer curso del grado de infantil desde infantil (no finalizado),residual
+unidam tercer curso del grado de infantil para no maestros,admision,tercer curso del grado de infantil para no maestros,residual
+unidam tercer curso del grado de primaria desde primaria (no finalizado),admision,tercer curso del grado de primaria desde primaria (no finalizado),residual
+unidam tercer curso del grado de primaria desde título no homologado,admision,tercer curso del grado de primaria desde título no homologado,residual
+unidam tercer curso del grado de primaria para no maestros,admision,tercer curso del grado de primaria para no maestros,residual
+unidam tercer curso del grado de psicología,admision,tercer curso del grado de psicología,residual
+unidam tercer curso del grado infantil,admision,tercer curso del grado infantil,residual
+unidam tercer curso del grado infantil desde fp,admision,tercer curso del grado infantil desde fp,residual
+unidam tercer curso del grado infantil desde técnico de educación infantil,admision,tercer curso del grado infantil desde técnico de educación infantil,residual
+unidam tercer curso del grado primaria,admision,tercer curso del grado primaria,residual
+unidam tercer curso del grado primaria desde fp,admision,tercer curso del grado primaria desde fp,residual
+unidam tercer curso del grado primaria desde pau (prueba de acceso a la universidad),admision,tercer curso del grado primaria desde pau (prueba de acceso a la universidad),residual
+unidam tercer curso del psicología desde psicología (no finalizado),admision,tercer curso del psicología desde psicología (no finalizado),residual
+unidam tercer curso grado de psicología para titulados,admision,tercer curso grado de psicología para titulados,residual
