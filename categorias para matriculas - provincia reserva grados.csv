@@ -269,3 +269,57 @@ nebrija grado de primaria desde título no homologado,admision,nebrija grado de 
 residual_nebrija grado de infantil desde grado de primaria_3optativas,admision,residual_nebrija grado de infantil desde grado de primaria_3optativas,residual
 unidam grado de primaria desde título homologado,admision,unidam grado de primaria desde título homologado,no maestro
 grado de primaria para graduados en cafd,admision,grado de primaria para graduados en cafd,no maestro
+ucam cag a grado de primaria;admision;cag a grado de primaria;cag
+grado de ed. infantil (desde grado en ed. primaria);admision;grado de ed. infantil (desde grado en ed. primaria);cruzado
+grado de ed. primaria (desde diplomado ed. infantil);admision;grado de ed. primaria (desde diplomado ed. infantil);cruzado
+grado de ed. primaria (desde grado ed. infantil);admision;grado de ed. primaria (desde grado ed. infantil);cruzado
+grado de ed. primaria (desde grado en ed. infantil);admision;grado de ed. primaria (desde grado en ed. infantil);cruzado
+ceie grado de primaria (desde diplomatura en infantil);admision;grado de primaria (desde diplomatura en infantil);cruzado
+ceie grado de historia primer curso;admision;grado de historia primer curso;historia no titulados
+nebrija grado de ed. infantil desde ts infantil;admision;grado de ed. infantil desde ts infantil;infantil desde TSI
+primer curso del grado de ed. infantil para técnico sup. en infantil (2 años);admision;primer curso del grado de ed. infantil para técnico sup. en infantil (2 años);infantil desde TSI
+ceie grado de logopedia para titulados (1er año 2do semestre + 2do año 1er semestre);admision;grado de logopedia para titulados (1er año 2do semestre + 2do año 1er semestre);logopedia para titulados
+máster de prevención de riesgos laborales;mastersec;máster de prevención de riesgos laborales;master prl
+máster universitario en psicología general sanitaria (hesperides);mastersec;máster universitario en psicología general sanitaria (hesperides);master sanidad
+"máster universitario en profesor de educación secundaria obligatoria y bachillerato, fp y eoi (hesperides)";mastersec;"máster universitario en profesor de educación secundaria obligatoria y bachillerato, fp y eoi (hesperides)";master secundaria
+nebrija mención en audición y lenguaje desde grado  nebrija en primaria;admision;mención en audición y lenguaje desde grado  en primaria;mencion
+nebrija mención en audición y lenguaje desde grado nebrija en primaria;admision;mención en audición y lenguaje desde grado en primaria;mencion
+unidam mención en audición y lenguaje desde grado unidam en primaria (no finalizado);admision;mención en audición y lenguaje desde grado en primaria (no finalizado);mencion
+nebrija mención en audición y lenguaje desde grado no nebrija en infantil;admision;mención en audición y lenguaje desde grado no en infantil;mencion
+unidam mención en audición y lenguaje desde grado no unidam en infantil (no finalizado);admision;mención en audición y lenguaje desde grado no en infantil (no finalizado);mencion
+ucam mención en desde francés rado de primaria no ucam;admision;mención en desde francés rado de primaria no ucam;mencion
+unidam mención en educación física desde grado unidam en primaria (no finalizado);admision;mención en educación física desde grado en primaria (no finalizado);mencion
+mención ucjc en lengua extranjera (francés) (desde grado no ucjc en primaria);admision;mención en lengua extranjera (francés) (desde grado no en primaria);mencion
+mención ucjc en lengua extranjera (inglés) (desde grado ucjc en primaria);admision;mención en lengua extranjera (inglés) (desde grado en primaria);mencion
+mención ucjc en lengua extranjera (inglés) (desde grado no ucjc en primaria);admision;mención en lengua extranjera (inglés) (desde grado no en primaria);mencion
+mención ucjc en música (desde grado no ucjc en primaria);admision;mención en música (desde grado no en primaria);mencion
+mención ucjc en pedagogía terapéutica (desde grado ucjc en infantil);admision;mención en pedagogía terapéutica (desde grado en infantil);mencion
+nebrija mención en pedagogía terapéutica desde grado nebrija (feb26 matri);admision;mención en pedagogía terapéutica desde grado (feb26 matri);mencion
+nebrija mención en pedagogía terapéutica desde grado no nebrija en infantil;admision;mención en pedagogía terapéutica desde grado no en infantil;mencion
+nebrija mención en pedagogóa terapéutica desde grado no nebrija en primaria;admision;mención en pedagogóa terapéutica desde grado no en primaria;mencion
+unidam grado de infantil desde título homologado;admision;grado de infantil desde título homologado;no maestro
+primer curso del grado de ed. infantil para graduados no maestros (2 años);admision;primer curso del grado de ed. infantil para graduados no maestros (2 años);no maestro
+primer curso del grado de ed. primaria para graduados no maestros (2 años);admision;primer curso del grado de ed. primaria para graduados no maestros (2 años);no maestro
+primer curso del grado de ed. primaria para licenciados (2 años);admision;primer curso del grado de ed. primaria para licenciados (2 años);no maestro
+unidam grado de psicología desde fp;admision;grado de psicología desde fp;psicologia sin titulacion
+ceie grado de psicología desde psicología (no finalizado);admision;grado de psicología desde psicología (no finalizado);psicologia sin titulacion
+unidam cuarto curso del grado infantil;admision;cuarto curso del grado infantil;residual
+ceie grado de logopedia segundo curso;admision;grado de logopedia segundo curso;residual
+reidual_nebrija mención en educación física desde grado no nebrija en primaria_asignaturas;admision;reidual_mención en educación física desde grado no en primaria_asignaturas;residual
+residual ucam cag a grado de primaria;admision;residual cag a grado de primaria;residual
+residual ucam mención en audición y lenguaje desde grado de primaria no ucam;admision;residual mención en audición y lenguaje desde grado de primaria no ucam;residual
+residual ucam mención en audición y lenguaje desde grado de primaria ucam;admision;residual mención en audición y lenguaje desde grado de primaria ucam;residual
+residual ucam mención en lengua extranjera (francés) desde grado de primaria no ucam;admision;residual mención en lengua extranjera (francés) desde grado de primaria no ucam;residual
+residual ucam mención en lengua extranjera (inglés) desde grado de primaria no ucam;admision;residual mención en lengua extranjera (inglés) desde grado de primaria no ucam;residual
+residual ucam mención en pedagogía terapéutica desde grado de primaria no ucam;admision;residual mención en pedagogía terapéutica desde grado de primaria no ucam;residual
+residual ucam mención en pedagogía terapéutica desde grado de primaria ucam;admision;residual mención en pedagogía terapéutica desde grado de primaria ucam;residual
+residual_nebrija grado de infantil desde grado de primaria_asignatura y tfg;admision;residual_grado de infantil desde grado de primaria_asignatura y tfg;residual
+residual_nebrija grado de infantil desde grado de primaria_asignatura, practicum y tfg;admision;residual_grado de infantil desde grado de primaria_asignatura, practicum y tfg;residual
+residual_nebrija grado de infantil desde grado de primaria_asignaturas y tfg;admision;residual_grado de infantil desde grado de primaria_asignaturas y tfg;residual
+residual_nebrija grado de infantil desde grado de primaria_asignaturas, practicum y tfg;admision;residual_grado de infantil desde grado de primaria_asignaturas, practicum y tfg;residual
+residual_nebrija grado de infantil desde grado de primaria_tfg;admision;residual_grado de infantil desde grado de primaria_tfg;residual
+ceie segundo curso grado de logopedia para titulados;admision;segundo curso grado de logopedia para titulados;residual
+ceie segundo curso grado de psicología para titulados;admision;segundo curso grado de psicología para titulados;residual
+unidam segundo grado de primaria desde fp;admision;segundo grado de primaria desde fp;residual
+ceie tercer curso del grado de psicología desde psicología (no finalizado) ;admision;tercer curso del grado de psicología desde psicología (no finalizado) ;residual
+ceie tercer curso grado de psicología para titulados;admision;tercer curso grado de psicología para titulados;residual
